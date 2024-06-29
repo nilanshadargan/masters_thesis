@@ -2,7 +2,7 @@ company_id,UVP_true,Data Uniqueness_true,UVP_predicted,Data Uniqueness_predicted
 28367,Ok for 3-5 years,N/A,Ok for 3-5 years,Not Special/Publicly Available
 27989,Ok for 1-2 years,Not Special/Publicly Available,Ok for 3-5 years,Not Special/Publicly Available
 27966,Ok for 5-8 years,Large/Difficult to Obtain,Ok for 3-5 years,Not Special/Publicly Available
-27943,Ok for 1-2 years,Not Special/Publicly Available,Ok for 5-8 years,Large/Difficult to Obtain
+27943,Ok for 1-2 years,Not Special/Publicly Available,N/A,Large/Difficult to Obtain
 27890,Ok for 1-2 years,Large/Difficult to Obtain,Ok for 3-5 years,Not Special/Publicly Available
 27883,Ok for 1-2 years,Not Special/Publicly Available,Ok for 5-8 years,Large/Difficult to Obtain
 27867,Ok for 1-2 years,N/A,Ok for 3-5 years,Not Special/Publicly Available
@@ -25,7 +25,7 @@ company_id,UVP_true,Data Uniqueness_true,UVP_predicted,Data Uniqueness_predicted
 26883,Ok for 3-5 years,Large/Difficult to Obtain,Ok for 3-5 years,Large/Difficult to Obtain
 26859,Already obsolete,Not Special/Publicly Available,Ok for 3-5 years,Not Special/Publicly Available
 26819,Ok for 3-5 years,Large/Difficult to Obtain,Ok for 3-5 years,Large/Difficult to Obtain
-26776,Already obsolete,Quantity questionable,Ok for 1-2 years,Large/Difficult to Obtain
+26776,Already obsolete,Questionable Quantity,Ok for 1-2 years,Large/Difficult to Obtain
 26750,Ok for 1-2 years,Not Special/Publicly Available,Ok for 5-8 years,Not Special/Publicly Available
 26741,Ok for 3-5 years,Large/Difficult to Obtain,Ok for 3-5 years,Not Special/Publicly Available
 26722,Ok for 5-8 years,Large/Difficult to Obtain,Ok for 3-5 years,Large/Difficult to Obtain
@@ -42,7 +42,7 @@ company_id,UVP_true,Data Uniqueness_true,UVP_predicted,Data Uniqueness_predicted
 25714,Ok for 1-2 years,N/A,Ok for 3-5 years,Large/Difficult to Obtain
 25672,Ok for 1-2 years,Large/Difficult to Obtain,Ok for 3-5 years,Not Special/Publicly Available
 25617,Ok for 5-8 years,Large/Difficult to Obtain,Ok for 3-5 years,Large/Difficult to Obtain
-25587,Already obsolete,Quantity questionable,Ok for 3-5 years,Not Special/Publicly Available
+25587,Already obsolete,Questionable Quantity,Ok for 3-5 years,Not Special/Publicly Available
 25585,Ok for 1-2 years,N/A,Ok for 3-5 years,Large/Difficult to Obtain
 25569,Already obsolete,Not Special/Publicly Available,Ok for 1-2 years,Not Special/Publicly Available
 25558,Ok for 3-5 years,Not Special/Publicly Available,Ok for 3-5 years,Not Special/Publicly Available
@@ -50,7 +50,7 @@ company_id,UVP_true,Data Uniqueness_true,UVP_predicted,Data Uniqueness_predicted
 25358,Ok for 1-2 years,Not Special/Publicly Available,Ok for 3-5 years,Not Special/Publicly Available
 25356,Ok for 1-2 years,Not Special/Publicly Available,Ok for 3-5 years,Not Special/Publicly Available
 25343,Ok for 1-2 years,Not Special/Publicly Available,Ok for 3-5 years,Large/Difficult to Obtain
-25314,Ok for 3-5 years,Quantity questionable,Ok for 3-5 years,Not Special/Publicly Available
+25314,Ok for 3-5 years,Questionable Quantity,Ok for 3-5 years,Not Special/Publicly Available
 25058,Ok for 1-2 years,Not Special/Publicly Available,Ok for 1-2 years,Not Special/Publicly Available
 24893,Ok for 1-2 years,Not Special/Publicly Available,Ok for 5-8 years,Large/Difficult to Obtain
 24725,Ok for 3-5 years,Not Special/Publicly Available,Ok for 3-5 years,Not Special/Publicly Available
@@ -88,7 +88,7 @@ company_id,UVP_true,Data Uniqueness_true,UVP_predicted,Data Uniqueness_predicted
 22661,Ok for 5-8 years,Large/Difficult to Obtain,Ok for 3-5 years,Large/Difficult to Obtain
 22627,Ok for 3-5 years,Large/Difficult to Obtain,Ok for 3-5 years,Large/Difficult to Obtain
 22608,Already obsolete,Not Special/Publicly Available,Ok for 3-5 years,Not Special/Publicly Available
-13330,Ok for 3-5 years,Quantity questionable,Ok for 3-5 years,Large/Difficult to Obtain
+13330,Ok for 3-5 years,Questionable Quantity,Ok for 3-5 years,Large/Difficult to Obtain
 22063,Ok for 1-2 years,Large/Difficult to Obtain,Ok for 3-5 years,Large/Difficult to Obtain
 21915,Ok for 1-2 years,Large/Difficult to Obtain,Ok for 3-5 years,Large/Difficult to Obtain
 21894,Ok for 1-2 years,Not Special/Publicly Available,Ok for 3-5 years,Not Special/Publicly Available
@@ -99,4 +99,4 @@ company_id,UVP_true,Data Uniqueness_true,UVP_predicted,Data Uniqueness_predicted
 13218,Ok for 3-5 years,Large/Difficult to Obtain,Ok for 5-8 years,Large/Difficult to Obtain
 13147,Ok for 1-2 years,Not Special/Publicly Available,Ok for 1-2 years,Not Special/Publicly Available
 13144,Ok for 1-2 years,Large/Difficult to Obtain,Ok for 3-5 years,Large/Difficult to Obtain
-13145,Already obsolete,Quantity questionable,Ok for 3-5 years,Not Special/Publicly Available
+13145,Already obsolete,Questionable Quantity,Ok for 3-5 years,Not Special/Publicly Available
