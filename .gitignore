@@ -1,0 +1,41 @@
+# Secrets / environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Jupyter
+*/.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Data (see data/README.md for how to obtain / regenerate)
+# Raw external dumps and interim scraped files are regenerable -> ignored.
+# data/processed/ (annotated data + model results) IS tracked as the research output.
+data/raw/*
+data/interim/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+
+# Model / cache artifacts
+*.pt
+*.bin
+.cache/
+nltk_data/
