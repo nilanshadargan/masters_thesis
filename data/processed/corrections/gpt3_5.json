@@ -1,0 +1,82 @@
+[
+  {
+    "index": 3,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 3,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 7,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 11,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 11,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 13,
+    "column": "UVP",
+    "value": null
+  },
+  {
+    "index": 16,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 17,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 23,
+    "column": "UVP",
+    "value": null
+  },
+  {
+    "index": 36,
+    "column": "Data Uniqueness",
+    "value": "Quantity questionable"
+  },
+  {
+    "index": 41,
+    "column": "UVP",
+    "value": "Ok for 1-2 years"
+  },
+  {
+    "index": 58,
+    "column": "UVP",
+    "value": "Ok for 1-2 years"
+  },
+  {
+    "index": 76,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 82,
+    "column": "Data Uniqueness",
+    "value": "Quantity questionable"
+  },
+  {
+    "index": 87,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 96,
+    "column": "UVP",
+    "value": "Ok for 1-2 years"
+  }
+]
