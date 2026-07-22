@@ -1,0 +1,437 @@
+[
+  {
+    "index": 1,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 1,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 5,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 5,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 11,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 11,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 13,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 13,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 14,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 14,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 15,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 15,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 19,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 19,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 20,
+    "column": "UVP",
+    "value": "Ok for 1-2 years"
+  },
+  {
+    "index": 20,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 25,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 25,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 27,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 27,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 29,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 29,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 30,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 30,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 31,
+    "column": "UVP",
+    "value": "Ok for 1-2 years"
+  },
+  {
+    "index": 31,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 32,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 32,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 35,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 35,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 36,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 36,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 38,
+    "column": "UVP",
+    "value": "Ok for 1-2 years"
+  },
+  {
+    "index": 38,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 39,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 39,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 40,
+    "column": "UVP",
+    "value": "Ok for 1-2 years"
+  },
+  {
+    "index": 40,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 43,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 43,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 45,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 45,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 51,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 51,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 54,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 55,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 61,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 61,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 62,
+    "column": "UVP",
+    "value": "Ok for 1-2 years"
+  },
+  {
+    "index": 62,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 65,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 65,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 76,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 76,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 77,
+    "column": "UVP",
+    "value": "Ok for 1-2 years"
+  },
+  {
+    "index": 77,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 84,
+    "column": "UVP",
+    "value": "Ok for 1-2 years"
+  },
+  {
+    "index": 84,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 85,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 85,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 86,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 86,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 94,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 94,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 95,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 95,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 102,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 102,
+    "column": "Data Uniqueness",
+    "value": "Large/Difficult to Obtain"
+  },
+  {
+    "index": 3,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 17,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 18,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 23,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 24,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 42,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 44,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 46,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 48,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 53,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 58,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 63,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 64,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 80,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 91,
+    "column": "Data Uniqueness",
+    "value": "Not Special/Publicly Available"
+  },
+  {
+    "index": 93,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 96,
+    "column": "UVP",
+    "value": "Ok for 3-5 years"
+  },
+  {
+    "index": 99,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  },
+  {
+    "index": 100,
+    "column": "UVP",
+    "value": "Ok for 5-8 years"
+  }
+]
